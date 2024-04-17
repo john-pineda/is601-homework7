@@ -11,5 +11,13 @@ For this assignment, I have combined Docker with Python to create a program that
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
    ![QR Code](QRCode_20240417002206.png)
 
-2.  Add an image of viewing the log of successfully creating the QR code below.
-   PUT YOUR LOG IMAGE HERE
+
+```sh
+LOG\
+  2024-04-16 20:35:45 2024-04-17 00:35:45,790 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003545.png
+  2024-04-16 20:35:56 2024-04-17 00:35:56,279 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003556.png
+  my-qr-app
+```
+log:
+2024-04-16 20:35:45 2024-04-17 00:35:45,790 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003545.png
+2024-04-16 20:35:56 2024-04-17 00:35:56,279 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003556.png

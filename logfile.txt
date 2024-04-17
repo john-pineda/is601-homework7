@@ -1,0 +1,2 @@
+2024-04-17 00:34:12,203 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003412.png
+2024-04-17 00:34:28,720 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20240417003428.png
