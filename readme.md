@@ -1,3 +1,5 @@
+## Test for README.MD 
+
 # Docker and Python - Homework 7 - Make Up Assignment 
 
 For this assignment, I have combined Docker with Python to create a program that generates a QR code PNG file containing a URL. The QR code can be scanned with a mobile phone camera, directing users to the target website. The program generates a QR code that takes someone to my GitHub homepage i.e. [https://github.com/john-pineda](https://github.com/john-pineda).
